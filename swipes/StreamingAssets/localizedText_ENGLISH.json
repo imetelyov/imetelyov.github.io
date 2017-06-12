@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonLocalization",
+      "value": "Eng"
+    },
+    {
+      "key": "MenuMain_ButtonVKText",
+      "value": "Enter"
+    },
+    {
+      "key": "MenuSettings_HeaderText",
+      "value": "Settings"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "About"
+    },
+    {
+      "key": "MenuAbout_Text1",
+      "value": "SWIPES v0.05\na game about swiping\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Text2",
+      "value": "\n\nmusic: 'Woods', 'Happy-Go-Lucky Puzzle' by Axton Crolley (freevideogamemusic@gmail.com)\n'Puzzle tune 1' by rezoner (rezoner.net)\n\nsounds: diforb.com\n\nicons: game-icons.net"
+    },
+    {
+      "key": "MenuVK_VKGamesText",
+      "value": "VK Games"
+    },
+    {
+      "key": "MenuVK_QuasarGamesText",
+      "value": "Quasar games"
+    },
+    {
+      "key": "MenuVK_FriendsText",
+      "value": "Friends"
+    },
+    {
+      "key": "MenuVK_ButtonJoinText",
+      "value": "Join"
+    },
+    {
+      "key": "MenuVK_ButtonVisitText",
+      "value": "Visit"
+    },
+    {
+      "key": "MenuVK_ButtonFriendsText",
+      "value": "Invite"
+    },
+    {
+      "key": "MenuVK_ButtonLoginText",
+      "value": "Log in"
+    },
+    {
+      "key": "MenuVK_ButtonLogoutText",
+      "value": "Log out"
+    },
+    {
+      "key": "MenuVKFriends_ButtonInvite",
+      "value": "Invite"
+    },
+    {
+      "key": "MenuTutorial_HeaderText",
+      "value": "How to play?"
+    },
+    {
+      "key": "GameplayPause_HeaderText",
+      "value": "Pause"
+    },
+    {
+      "key": "GameplayRate_HeaderText",
+      "value": "Rate us!"
+    },
+    {
+      "key": "GameplayRate_ButtonYes",
+      "value": "Rate!"
+    },
+    {
+      "key": "GameplayRate_ButtonNo",
+      "value": "No"
+    },
+    {
+      "key": "GameplayRate_ButtonLater",
+      "value": "Later"
+    }
+  ]
+}

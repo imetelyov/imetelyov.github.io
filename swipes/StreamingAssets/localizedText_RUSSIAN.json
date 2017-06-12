@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonLocalization",
+      "value": "Рус"
+    },
+    {
+      "key": "MenuMain_ButtonVKText",
+      "value": "Войти"
+    },
+    {
+      "key": "MenuSettings_HeaderText",
+      "value": "Настройки"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "Об игре"
+    },
+    {
+      "key": "MenuAbout_Text1",
+      "value": "SWIPES v0.05\nигра о смахивании\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Text2",
+      "value": "\n\nмузыка: 'Woods', 'Happy-Go-Lucky Puzzle' от Axton Crolley (freevideogamemusic@gmail.com)\n'Puzzle tune 1' от rezoner (rezoner.net)\n\nзвуки: diforb.com\n\nиконки: game-icons.net"
+    },
+    {
+      "key": "MenuVK_VKGamesText",
+      "value": "Игры ВКонтакте"
+    },
+    {
+      "key": "MenuVK_QuasarGamesText",
+      "value": "Quasar games"
+    },
+    {
+      "key": "MenuVK_FriendsText",
+      "value": "Друзья"
+    },
+    {
+      "key": "MenuVK_ButtonJoinText",
+      "value": "Вступить"
+    },
+    {
+      "key": "MenuVK_ButtonVisitText",
+      "value": "Посетить"
+    },
+    {
+      "key": "MenuVK_ButtonFriendsText",
+      "value": "Пригласить"
+    },
+    {
+      "key": "MenuVK_ButtonLoginText",
+      "value": "Войти"
+    },
+    {
+      "key": "MenuVK_ButtonLogoutText",
+      "value": "Выйти"
+    },
+    {
+      "key": "MenuVKFriends_ButtonInvite",
+      "value": "Пригласить"
+    },
+    {
+      "key": "MenuTutorial_HeaderText",
+      "value": "Как играть?"
+    },
+    {
+      "key": "GameplayPause_HeaderText",
+      "value": "Пауза"
+    },
+    {
+      "key": "GameplayRate_HeaderText",
+      "value": "Оцените нас!"
+    },
+    {
+      "key": "GameplayRate_ButtonYes",
+      "value": "Оценить!"
+    },
+    {
+      "key": "GameplayRate_ButtonNo",
+      "value": "Нет"
+    },
+    {
+      "key": "GameplayRate_ButtonLater",
+      "value": "Позже"
+    }
+  ]
+}
