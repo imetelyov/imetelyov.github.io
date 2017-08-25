@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonLocalization",
+      "value": "Deu"
+    },
+    {
+      "key": "MenuMain_ButtonVKText",
+      "value": "Anmelden"
+    },
+    {
+      "key": "MenuSettings_HeaderText",
+      "value": "Einstellungen"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "Über das Spiel"
+    },
+    {
+      "key": "MenuAbout_Text1",
+      "value": "SWIPES v0.06\nWischen Spiel\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Text2",
+      "value": "\n\nmusik: 'Woods', 'Happy-Go-Lucky Puzzle' - Axton Crolley (freevideogamemusic@gmail.com)\n'Puzzle tune 1' - rezoner (rezoner.net)\n\ntöne: diforb.com\n\nsymbole: game-icons.net"
+	},
+    {
+      "key": "MenuVK_VKGamesText",
+      "value": "VK Games"
+    },
+    {
+      "key": "MenuVK_QuasarGamesText",
+      "value": "Quasar games"
+    },
+    {
+      "key": "MenuVK_FriendsText",
+      "value": "Freunde"
+    },
+    {
+      "key": "MenuVK_ButtonJoinText",
+      "value": "Beitreten"
+    },
+    {
+      "key": "MenuVK_ButtonVisitText",
+      "value": "Besuchen"
+    },
+    {
+      "key": "MenuVK_ButtonFriendsText",
+      "value": "Einladen"
+    },
+    {
+      "key": "MenuVK_ButtonLoginText",
+      "value": "Anmelden"
+    },
+    {
+      "key": "MenuVK_ButtonLogoutText",
+      "value": "Abmelden"
+    },
+    {
+      "key": "MenuVKFriends_ButtonInvite",
+      "value": "Einladen"
+    },
+    {
+      "key": "MenuTutorial_HeaderText",
+      "value": "Spielablauf"
+    },
+    {
+      "key": "GameplayPause_HeaderText",
+      "value": "Pause"
+    },
+    {
+      "key": "GameplayRate_HeaderText",
+      "value": "Bewerten Sie uns!"
+    },
+    {
+      "key": "GameplayRate_ButtonYes",
+      "value": "Bewerten!"
+    },
+    {
+      "key": "GameplayRate_ButtonNo",
+      "value": "Nein"
+    },
+    {
+      "key": "GameplayRate_ButtonLater",
+      "value": "Später"
+    }
+  ]
+}
