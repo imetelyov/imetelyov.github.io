@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonShop_Text",
+      "value": "Balls"
+    },
+    {
+      "key": "MenuShop_Label",
+      "value": "Choose a ball"
+    },
+	{
+      "key": "MenuShop_BallShopCard_ButtonBuy_Text",
+      "value": "BUY"
+    },
+    {
+      "key": "MenuShop_BallShopCard_ButtonUse_Text",
+      "value": "USE"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Name",
+      "value": "Simple"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Info",
+      "value": "Just a simple ball"
+    },
+	{
+      "key": "MenuSettings_HeaderText",
+      "value": "Settings"
+    },
+    {
+      "key": "MenuSettings_ButtonLocalization_Text",
+      "value": "Eng"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "About"
+    },
+    {
+      "key": "MenuAbout_Content_Text1",
+      "value": "Magic Ball vPARAM_VERSION\nyour spiritual advisor\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Content_Text2",
+      "value": "\n\nmusic: PetterTheSturgeon (https://soundcloud.com/petterthesturgeon)\n\nicons designed by Freepik from Flaticon"
+    },
+    {
+      "key": "MenuTutorial_TextTouch",
+      "value": "touch\nanywhere"
+    },
+    {
+      "key": "MenuTutorial_TextDrag",
+      "value": "drag\n&\naim"
+    },
+    {
+      "key": "MenuTutorial_TextRelease",
+      "value": "release"
+    },
+    {
+      "key": "MenuRate_HeaderText",
+      "value": "Rate us!"
+    },
+    {
+      "key": "MenuRate_ButtonRate_Text",
+      "value": "Rate!"
+    },
+    {
+      "key": "MenuRate_ButtonNo_Text",
+      "value": "No"
+    },
+    {
+      "key": "MenuRate_ButtonLater_Text",
+      "value": "Later"
+    },
+	{
+      "key": "MenuQuit_HeaderText",
+      "value": "Quit?"
+    },
+    {
+      "key": "MenuQuit_ButtonMoreGames_Text",
+      "value": "MORE\nGAMES"
+    },
+	{
+      "key": "MenuQuit_ButtonQuit_Text",
+      "value": "Quit"
+    },
+    {
+      "key": "Answer_0",
+      "value": "Ask\nme!"
+    },    {
+      "key": "Answer_1",
+      "value": "It is\ncertain"
+    },
+    {
+      "key": "Answer_2",
+      "value": "It is\ndecidedly\nso"
+    },
+    {
+      "key": "Answer_3",
+      "value": "Without\na\ndoubt"
+    },
+    {
+      "key": "Answer_4",
+      "value": "Yes\ndefinitely"
+    },
+    {
+      "key": "Answer_5",
+      "value": "You\nmay rely\non it"
+    },
+    {
+      "key": "Answer_6",
+      "value": "As\nI see it,\nyes"
+    },
+    {
+      "key": "Answer_7",
+      "value": "Most\nlikely"
+    },
+    {
+      "key": "Answer_8",
+      "value": "Outlook\ngood"
+    },
+    {
+      "key": "Answer_9",
+      "value": "Signs\npoint to\nyes"
+    },
+    {
+      "key": "Answer_10",
+      "value": "Yep"
+    },
+    {
+      "key": "Answer_11",
+      "value": "Reply\nhazy\ntry again"
+    },
+    {
+      "key": "Answer_12",
+      "value": "Ask\nagain\nlater"
+    },
+    {
+      "key": "Answer_13",
+      "value": "Better\nnot tell you\nnow"
+    },
+    {
+      "key": "Answer_14",
+      "value": "Cannot\npredict\nnow"
+    },
+    {
+      "key": "Answer_15",
+      "value": "Concentrate\nand ask\nagain"
+    },
+    {
+      "key": "Answer_16",
+      "value": "Don't\ncount\non it"
+    },
+    {
+      "key": "Answer_17",
+      "value": "My\nreply\nis no"
+    },
+    {
+      "key": "Answer_18",
+      "value": "My\nsources say\nno"
+    },
+    {
+      "key": "Answer_19",
+      "value": "Outlook\nnot\nso good"
+    },
+    {
+      "key": "Answer_20",
+      "value": "Very\ndoubtful"
+    }
+    
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonShop_Text",
+      "value": "Bälle"
+    },
+    {
+      "key": "MenuShop_Label",
+      "value": "Wähle einen Ball"
+    },
+	{
+      "key": "MenuShop_BallShopCard_ButtonBuy_Text",
+      "value": "KAUFEN"
+    },
+    {
+      "key": "MenuShop_BallShopCard_ButtonUse_Text",
+      "value": "VERWENDEN"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Name",
+      "value": "Simple"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Info",
+      "value": "Ein einfacher Ball"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Lazer_Name",
+      "value": "Lazer"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Lazer_Info",
+      "value": "doppelter Schaden nach jedem dritten Schuss"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Rich_Name",
+      "value": "Rich"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Rich_Info",
+      "value": "30% Chance doppelt so viele Sterne zu bekommen"
+    },
+	{
+      "key": "MenuShop_BallShopCard_Damage_Name",
+      "value": "Damage"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Damage_Info",
+      "value": "10% Chance für doppelten Schaden"
+    },
+	{
+      "key": "MenuShop_BallShopCard_Death_Name",
+      "value": "Undead"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Death_Info",
+      "value": "80% Chance einer Todesfalle zu entkommen"
+    },
+	{
+      "key": "MenuShop_BallShopCard_Bat_Name",
+      "value": "Fledermaus"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Bat_Info",
+      "value": "Fledermausschwärme fliegen nicht gerade"
+    },
+	{
+      "key": "MenuSettings_HeaderText",
+      "value": "Einstellungen"
+    },
+    {
+      "key": "MenuSettings_ButtonLocalization_Text",
+      "value": "Deu"
+    },
+	{
+      "key": "MenuSettings_ButtonAim_Touch_Text",
+      "value": "Touch"
+    },
+	{
+      "key": "MenuSettings_ButtonAim_Drag_Text",
+      "value": "Ziehen"
+    },
+	{
+      "key": "MenuPause_HeaderText",
+      "value": "Pausiert"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "Über"
+    },
+    {
+      "key": "MenuAbout_Content_Text1",
+      "value": "Neon Ballz vPARAM_VERSION\nein Spiel über schießende Bälle\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Content_Text2",
+      "value": "\n\nMusik von Alexandr Zhelanov (soundcloud.com/alexandr-zhelanov)\n\nSounds: diforb.com\n\nIcons designed von Freepik von Flaticon\n\nlokalisierung: Stefanie Brayer"
+    },
+    {
+      "key": "MenuTutorial_TextTouch",
+      "value": "Berühre\nirgendwo"
+    },
+    {
+      "key": "MenuTutorial_TextDrag",
+      "value": "Ziehe\n&\nziele"
+    },
+    {
+      "key": "MenuTutorial_TextRelease",
+      "value": "Loslassen"
+    },
+    {
+      "key": "MenuRate_HeaderText",
+      "value": "Bewerte uns!"
+    },
+    {
+      "key": "MenuRate_ButtonRate_Text",
+      "value": "Bewerten!"
+    },
+    {
+      "key": "MenuRate_ButtonNo_Text",
+      "value": "Nein"
+    },
+    {
+      "key": "MenuRate_ButtonLater_Text",
+      "value": "Später"
+    },
+	{
+      "key": "MenuContinue_HeaderText",
+      "value": "Weiterspielen?"
+    },
+    {
+      "key": "MenuContinue_ButtonPay_Text",
+      "value": "PARAM_COINS Sterne bezahlen"
+    },
+    {
+      "key": "MenuContinue_ButtonWatchAd_Text",
+      "value": "Werbung ansehen"
+    },
+    {
+      "key": "MenuGameOver_HeaderText",
+      "value": "Game over"
+    },
+    {
+      "key": "MenuGameOver_ButtonBuyCheckpoint_Text",
+      "value": "PARAM_COINS Sterne für PARAM_LVL lvl bezahlen"
+    },
+    {
+      "key": "MenuGameOver_ButtonRestart_Text",
+      "value": "Checkpoint PARAM_LVL lvl"
+    },
+    {
+      "key": "MenuGameOver_ButtonShop_Text",
+      "value": "Bälle"
+    },
+    {
+      "key": "MenuVK_VKGamesText",
+      "value": "VK Games"
+    },
+    {
+      "key": "MenuVK_QuasarGamesText",
+      "value": "Quasar games"
+    },
+    {
+      "key": "MenuVK_FriendsText",
+      "value": "Freunde"
+    },
+    {
+      "key": "MenuVK_ButtonJoinText",
+      "value": "Beitreten"
+    },
+    {
+      "key": "MenuVK_ButtonVisitText",
+      "value": "Besuchen"
+    },
+    {
+      "key": "MenuVK_ButtonFriendsText",
+      "value": "Einladen"
+    },
+    {
+      "key": "MenuVK_ButtonLogin_Text",
+      "value": "Einloggen"
+    },
+    {
+      "key": "MenuVK_ButtonLogout_Text",
+      "value": "Ausloggen"
+    },
+    {
+      "key": "MenuVKFriends_ButtonInvite_Text",
+      "value": "Einladen"
+    },
+	{
+      "key": "MenuQuit_HeaderText",
+      "value": "Beenden?"
+    },
+    {
+      "key": "MenuGameOver_ButtonMoreGames_Text",
+      "value": "MEHR\nSPIELE"
+    },
+    {
+      "key": "GameplayMain_NewCheckpointHUD_TextClear",
+      "value": "ABGERÄUMT!"
+    },
+    {
+      "key": "GameplayMain_NewCheckpointHUD_TextNewCheckpoint",
+      "value": "Lvl PARAM_LVL Checkpoint"
+    }
+    
+  ]
+}

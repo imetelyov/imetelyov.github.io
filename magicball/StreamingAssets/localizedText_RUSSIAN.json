@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonShop_Text",
+      "value": "Шары"
+    },
+    {
+      "key": "MenuShop_Label",
+      "value": "Выбери шар"
+    },
+	{
+      "key": "MenuShop_BallShopCard_ButtonBuy_Text",
+      "value": "Купить"
+    },
+    {
+      "key": "MenuShop_BallShopCard_ButtonUse_Text",
+      "value": "Использовать"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Name",
+      "value": "Обычный"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Info",
+      "value": "Совершенно обычный магический шар"
+    },
+	{
+      "key": "MenuSettings_HeaderText",
+      "value": "Настройки"
+    },
+    {
+      "key": "MenuSettings_ButtonLocalization_Text",
+      "value": "Рус"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "Об игре"
+    },
+    {
+      "key": "MenuAbout_Content_Text1",
+      "value": "Magic Ball vPARAM_VERSION\nпомощник принятия решений\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Content_Text2",
+      "value": "\n\nмузыка: PetterTheSturgeon (https://soundcloud.com/petterthesturgeon)\n\nиконки разработаны Freepik из Flaticon"
+    },
+    {
+      "key": "MenuTutorial_TextTouch",
+      "value": "коснись\nв любом месте"
+    },
+    {
+      "key": "MenuTutorial_TextDrag",
+      "value": "потяни\nи\nприцелься"
+    },
+    {
+      "key": "MenuTutorial_TextRelease",
+      "value": "отпусти"
+    },
+    {
+      "key": "MenuRate_HeaderText",
+      "value": "Оцените нас!"
+    },
+    {
+      "key": "MenuRate_ButtonRate_Text",
+      "value": "Оценить!"
+    },
+    {
+      "key": "MenuRate_ButtonNo_Text",
+      "value": "Нет"
+    },
+    {
+      "key": "MenuRate_ButtonLater_Text",
+      "value": "Позже"
+    },
+	{
+      "key": "MenuQuit_HeaderText",
+      "value": "Выйти?"
+    },
+    {
+      "key": "MenuQuit_ButtonMoreGames_Text",
+      "value": "ЕЩЕ\nИГРЫ"
+    },
+    {
+      "key": "MenuQuit_ButtonQuit_Text",
+      "value": "Выйти"
+    },
+    {
+      "key": "Answer_0",
+      "value": "Спроси\nменя!"
+    },
+    {
+      "key": "Answer_1",
+      "value": "Бесспорно"
+    },
+    {
+      "key": "Answer_2",
+      "value": "Предрешено"
+    },
+    {
+      "key": "Answer_3",
+      "value": "Никаких\nсомнений"
+    },
+    {
+      "key": "Answer_4",
+      "value": "Определённо\nда"
+    },
+    {
+      "key": "Answer_5",
+      "value": "Можешь\nбыть\nуверен\nв этом"
+    },
+    {
+      "key": "Answer_6",
+      "value": "Мне\nкажется\n\"да\""
+    },
+    {
+      "key": "Answer_7",
+      "value": "Вероятнее\nвсего"
+    },
+    {
+      "key": "Answer_8",
+      "value": "Хорошие\nперспективы"
+    },
+    {
+      "key": "Answer_9",
+      "value": "Знаки\nговорят\n\"да\""
+    },
+    {
+      "key": "Answer_10",
+      "value": "Да"
+    },
+    {
+      "key": "Answer_11",
+      "value": "Пока\nне ясно,\nпопробуй\nснова"
+    },
+    {
+      "key": "Answer_12",
+      "value": "Спроси\nпозже"
+    },
+    {
+      "key": "Answer_13",
+      "value": "Лучше\nне\nрассказывать"
+    },
+    {
+      "key": "Answer_14",
+      "value": "Сейчас\nнельзя\nпредсказать"
+    },
+    {
+      "key": "Answer_15",
+      "value": "Сконцентрируйся\nи спроси\nопять"
+    },
+    {
+      "key": "Answer_16",
+      "value": "Даже\nне\nдумай"
+    },
+    {
+      "key": "Answer_17",
+      "value": "Мой\nответ\n\"нет\""
+    },
+    {
+      "key": "Answer_18",
+      "value": "По моим\nданным\n\"нет\""
+    },
+    {
+      "key": "Answer_19",
+      "value": "Перспективы\nне очень\nхорошие"
+    },
+    {
+      "key": "Answer_20",
+      "value": "Весьма\nсомнительно"
+    }
+  ]
+}
