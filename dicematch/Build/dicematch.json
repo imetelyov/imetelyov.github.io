@@ -1,0 +1,13 @@
+{
+"companyName": "quasargames",
+"productName": "Dice Match",
+"dataUrl": "dicematch.data.unityweb",
+"asmCodeUrl": "dicematch.asm.code.unityweb",
+"asmMemoryUrl": "dicematch.asm.memory.unityweb",
+"asmFrameworkUrl": "dicematch.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

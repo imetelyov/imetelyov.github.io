@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonShop_Text",
+      "value": "Шарики"
+    },
+    {
+      "key": "MenuShop_Label",
+      "value": "Выбери шарики"
+    },
+	{
+      "key": "MenuShop_BallShopCard_ButtonBuy_Text",
+      "value": "Купить"
+    },
+    {
+      "key": "MenuShop_BallShopCard_ButtonUse_Text",
+      "value": "Использовать"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Name",
+      "value": "Обычный"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Info",
+      "value": "Совершенно обычный, но надежный шарик"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Lazer_Name",
+      "value": "Лазерный"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Lazer_Info",
+      "value": "Каждый третий залп лазера обладает двойным уроном"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Rich_Name",
+      "value": "Богатенький"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Rich_Info",
+      "value": "30% шанс подобрать двойную звездочку"
+    },
+	{
+      "key": "MenuShop_BallShopCard_Damage_Name",
+      "value": "Пробивной"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Damage_Info",
+      "value": "Шары с 10% вероятностью наносят двойной урон"
+    },
+	{
+      "key": "MenuShop_BallShopCard_Death_Name",
+      "value": "Бессмертный"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Death_Info",
+      "value": "С 80% вероятностью избежит смертельной ловушки"
+    },
+	{
+      "key": "MenuSettings_HeaderText",
+      "value": "Настройки"
+    },
+    {
+      "key": "MenuSettings_ButtonLocalization_Text",
+      "value": "Рус"
+    },
+	{
+      "key": "MenuPause_HeaderText",
+      "value": "Пауза"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "Об игре"
+    },
+    {
+      "key": "MenuAbout_Content_Text1",
+      "value": "Domino Tower vPARAM_VERSION\nигра о запуске шариков\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Content_Text2",
+      "value": "\n\nмузыка: Alexandr Zhelanov (soundcloud.com/alexandr-zhelanov)\n\nзвуки: diforb.com\n\nиконки разработаны Freepik из Flaticon"
+    },
+    {
+      "key": "MenuTutorial_TextTouch",
+      "value": "коснись\nв любом месте"
+    },
+    {
+      "key": "MenuTutorial_TextDrag",
+      "value": "потяни\nи\nприцелься"
+    },
+    {
+      "key": "MenuTutorial_TextRelease",
+      "value": "отпусти"
+    },
+    {
+      "key": "MenuRate_HeaderText",
+      "value": "Оцените нас!"
+    },
+    {
+      "key": "MenuRate_ButtonRate_Text",
+      "value": "Оценить!"
+    },
+    {
+      "key": "MenuRate_ButtonNo_Text",
+      "value": "Нет"
+    },
+    {
+      "key": "MenuRate_ButtonLater_Text",
+      "value": "Позже"
+    },
+	{
+      "key": "MenuContinue_HeaderText",
+      "value": "Продолжить?"
+    },
+    {
+      "key": "MenuContinue_ButtonPay_Text",
+      "value": "Заплатить PARAM_COINS звезд"
+    },
+    {
+      "key": "MenuContinue_ButtonWatchAd_Text",
+      "value": "Рекламный ролик"
+    },
+    {
+      "key": "MenuGameOver_HeaderText",
+      "value": "Игра окончена"
+    },
+    {
+      "key": "MenuGameOver_ButtonBuyCheckpoint_Text",
+      "value": "Заплатить PARAM_COINS звезд за PARAM_LVL уровень"
+    },
+    {
+      "key": "MenuGameOver_ButtonRestart_Text",
+      "value": "Чекпоинт на PARAM_LVL уровне"
+    },
+    {
+      "key": "MenuGameOver_ButtonShop_Text",
+      "value": "Шарики"
+    },
+    {
+      "key": "MenuVK_VKGamesText",
+      "value": "Игры ВКонтакте"
+    },
+    {
+      "key": "MenuVK_QuasarGamesText",
+      "value": "Quasar games"
+    },
+    {
+      "key": "MenuVK_FriendsText",
+      "value": "Друзья"
+    },
+    {
+      "key": "MenuVK_ButtonJoinText",
+      "value": "Вступить"
+    },
+    {
+      "key": "MenuVK_ButtonVisitText",
+      "value": "Посетить"
+    },
+    {
+      "key": "MenuVK_ButtonFriendsText",
+      "value": "Пригласить"
+    },
+    {
+      "key": "MenuVK_ButtonLogin_Text",
+      "value": "Войти"
+    },
+    {
+      "key": "MenuVK_ButtonLogout_Text",
+      "value": "Выйти"
+    },
+    {
+      "key": "MenuVKFriends_ButtonInvite_Text",
+      "value": "Пригласить"
+    },
+	{
+      "key": "MenuQuit_HeaderText",
+      "value": "Выйти?"
+    },
+    {
+      "key": "MenuGameOver_ButtonMoreGames_Text",
+      "value": "ЕЩЕ\nИГРЫ"
+    },
+    {
+      "key": "GameplayMain_NewCheckpointHUD_TextClear",
+      "value": "Чисто!"
+    },
+    {
+      "key": "GameplayMain_NewCheckpointHUD_TextNewCheckpoint",
+      "value": "Чекпоинт на PARAM_LVL уровне"
+    }
+    
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "key": "MenuMain_ButtonShop_Text",
+      "value": "Balls"
+    },
+    {
+      "key": "MenuShop_Label",
+      "value": "Choose a ball"
+    },
+	{
+      "key": "MenuShop_BallShopCard_ButtonBuy_Text",
+      "value": "BUY"
+    },
+    {
+      "key": "MenuShop_BallShopCard_ButtonUse_Text",
+      "value": "USE"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Name",
+      "value": "Simple"
+    },
+    {
+      "key": "MenuShop_BallShopCard_Default_Info",
+      "value": "Just a simple ball"
+    },
+	{
+      "key": "MenuSettings_HeaderText",
+      "value": "Settings"
+    },
+    {
+      "key": "MenuSettings_ButtonLocalization_Text",
+      "value": "Eng"
+    },
+	{
+      "key": "MenuPause_HeaderText",
+      "value": "Paused"
+    },
+    {
+      "key": "MenuAbout_HeaderText",
+      "value": "About"
+    },
+    {
+      "key": "MenuAbout_Content_Text1",
+      "value": "Domino Tower vPARAM_VERSION\na game about shooting balls\n\nQuasar Games 2017."
+    },
+    {
+      "key": "MenuAbout_Content_Text2",
+      "value": "\n\nmusic by Alexandr Zhelanov (soundcloud.com/alexandr-zhelanov)\n\nsounds: diforb.com\n\nicons designed by Freepik from Flaticon"
+    },
+    {
+      "key": "MenuTutorial_TextTouch",
+      "value": "touch\nanywhere"
+    },
+    {
+      "key": "MenuTutorial_TextDrag",
+      "value": "drag\n&\naim"
+    },
+    {
+      "key": "MenuTutorial_TextRelease",
+      "value": "release"
+    },
+    {
+      "key": "MenuRate_HeaderText",
+      "value": "Rate us!"
+    },
+    {
+      "key": "MenuRate_ButtonRate_Text",
+      "value": "Rate!"
+    },
+    {
+      "key": "MenuRate_ButtonNo_Text",
+      "value": "No"
+    },
+    {
+      "key": "MenuRate_ButtonLater_Text",
+      "value": "Later"
+    },
+	{
+      "key": "MenuContinue_HeaderText",
+      "value": "Continue?"
+    },
+    {
+      "key": "MenuContinue_ButtonPay_Text",
+      "value": "Pay PARAM_COINS stars"
+    },
+    {
+      "key": "MenuContinue_ButtonWatchAd_Text",
+      "value": "Watch Ad"
+    },
+    {
+      "key": "MenuGameOver_HeaderText",
+      "value": "Game over"
+    },
+    {
+      "key": "MenuGameOver_ButtonBuyCheckpoint_Text",
+      "value": "Pay PARAM_COINS stars for PARAM_LVL lvl"
+    },
+    {
+      "key": "MenuGameOver_ButtonRestart_Text",
+      "value": "Checkpoint PARAM_LVL lvl"
+    },
+    {
+      "key": "MenuGameOver_ButtonShop_Text",
+      "value": "Balls"
+    },
+    {
+      "key": "MenuVK_VKGamesText",
+      "value": "VK Games"
+    },
+    {
+      "key": "MenuVK_QuasarGamesText",
+      "value": "Quasar games"
+    },
+    {
+      "key": "MenuVK_FriendsText",
+      "value": "Friends"
+    },
+    {
+      "key": "MenuVK_ButtonJoinText",
+      "value": "Join"
+    },
+    {
+      "key": "MenuVK_ButtonVisitText",
+      "value": "Visit"
+    },
+    {
+      "key": "MenuVK_ButtonFriendsText",
+      "value": "Invite"
+    },
+    {
+      "key": "MenuVK_ButtonLogin_Text",
+      "value": "Log in"
+    },
+    {
+      "key": "MenuVK_ButtonLogout_Text",
+      "value": "Log out"
+    },
+    {
+      "key": "MenuVKFriends_ButtonInvite_Text",
+      "value": "Invite"
+    },
+	{
+      "key": "MenuQuit_HeaderText",
+      "value": "Quit?"
+    },
+    {
+      "key": "MenuGameOver_ButtonMoreGames_Text",
+      "value": "MORE\nGAMES"
+    },
+    {
+      "key": "GameplayMain_NewCheckpointHUD_TextClear",
+      "value": "CLEAR!"
+    },
+    {
+      "key": "GameplayMain_NewCheckpointHUD_TextNewCheckpoint",
+      "value": "Lvl PARAM_LVL checkpoint"
+    }
+    
+  ]
+}
