@@ -17,14 +17,26 @@
       "value": "Использовать"
     },
     {
-      "key": "MenuShop_BallShopCard_Default_Name",
+      "key": "MenuShop_BallShopCard_DEFAULT_Name",
       "value": "Обычный"
     },
     {
-      "key": "MenuShop_BallShopCard_Default_Info",
-      "value": "Совершенно обычный магический шар"
+      "key": "MenuShop_BallShopCard_KNITTED_Name",
+      "value": "Вязаный"
     },
-	{
+    {
+      "key": "MenuShop_BallShopCard_XMAS_Name",
+      "value": "Новогодний"
+    },
+    {
+      "key": "MenuShop_BallShopCard_KAZ_Name",
+      "value": "Номад"
+    },
+    {
+      "key": "MenuShop_BallShopCard_INDIAN_Name",
+      "value": "Индийский"
+    },
+    {
       "key": "MenuSettings_HeaderText",
       "value": "Настройки"
     },
@@ -45,16 +57,20 @@
       "value": "\n\nмузыка: PetterTheSturgeon (https://soundcloud.com/petterthesturgeon)\n\nиконки разработаны Freepik из Flaticon"
     },
     {
-      "key": "MenuTutorial_TextTouch",
-      "value": "коснись\nв любом месте"
+      "key": "MenuAbout_ButtonMoreGames_Text",
+      "value": "ЕЩЕ\nИГРЫ"
     },
     {
-      "key": "MenuTutorial_TextDrag",
-      "value": "потяни\nи\nприцелься"
+      "key": "MenuTutorial_Text1",
+      "value": "Задай вопрос..."
     },
     {
-      "key": "MenuTutorial_TextRelease",
-      "value": "отпусти"
+      "key": "MenuTutorial_Text2",
+      "value": "Прикоснись к волшебному шару"
+    },
+    {
+      "key": "MenuTutorial_Text3",
+      "value": "Сможет ли шар отыскать правду или открыть твои тайные желания?"
     },
     {
       "key": "MenuRate_HeaderText",

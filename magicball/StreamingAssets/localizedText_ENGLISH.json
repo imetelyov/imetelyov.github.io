@@ -17,14 +17,26 @@
       "value": "USE"
     },
     {
-      "key": "MenuShop_BallShopCard_Default_Name",
-      "value": "Simple"
+      "key": "MenuShop_BallShopCard_DEFAULT_Name",
+      "value": "Default"
     },
     {
-      "key": "MenuShop_BallShopCard_Default_Info",
-      "value": "Just a simple ball"
+      "key": "MenuShop_BallShopCard_KNITTED_Name",
+      "value": "Knitted"
     },
-	{
+    {
+      "key": "MenuShop_BallShopCard_XMAS_Name",
+      "value": "Christmas"
+    },
+    {
+      "key": "MenuShop_BallShopCard_KAZ_Name",
+      "value": "Nomad"
+    },
+    {
+      "key": "MenuShop_BallShopCard_INDIAN_Name",
+      "value": "Indian"
+    },
+    {
       "key": "MenuSettings_HeaderText",
       "value": "Settings"
     },
@@ -45,16 +57,20 @@
       "value": "\n\nmusic: PetterTheSturgeon (https://soundcloud.com/petterthesturgeon)\n\nicons designed by Freepik from Flaticon"
     },
     {
-      "key": "MenuTutorial_TextTouch",
-      "value": "touch\nanywhere"
+      "key": "MenuAbout_ButtonMoreGames_Text",
+      "value": "MORE\nGAMES"
     },
     {
-      "key": "MenuTutorial_TextDrag",
-      "value": "drag\n&\naim"
+      "key": "MenuTutorial_Text1",
+      "value": "Ask a question..."
     },
     {
-      "key": "MenuTutorial_TextRelease",
-      "value": "release"
+      "key": "MenuTutorial_Text2",
+      "value": "Touch the Magic Ball"
+    },
+    {
+      "key": "MenuTutorial_Text3",
+      "value": "Can the ball find the truth or reveal your secret desires?"
     },
     {
       "key": "MenuRate_HeaderText",
